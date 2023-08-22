@@ -1,2 +1,1 @@
-# html-css-js
-A basic training project
+# A basic HTML, CSS and JS website for training
